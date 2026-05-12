@@ -4,14 +4,20 @@
     "author": "376",
     "creators": ["376"],
     "verifier": "376",
-    "verification": "https://youtu.be/dQaw_5SY7Tw?si=FZeiWejR5gIDHWC2",
-    "percentToQualify": 31,
+    "verification": "https://www.youtube.com/watch?v=dQaw_5SY7Tw",
+    "percentToQualify": 100,
     "records": [
         {
-            "user": "yezxgd",
-            "link": "https://www.youtube.com/watch?v=X1n7S6n-vEM",
+            "user": "LSas4Y",
+            "link": "https://youtu.be/qdOPLL8TeZE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "yezxGD",
+            "link": "https://youtu.be/X1n7S6n-vEM?si=3P4UykJDHGwTGP6m",
             "percent": 100,
             "hz": 240
         }
     ]
-}
+} 
