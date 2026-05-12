@@ -1,21 +1,15 @@
 {
     "id": 1536,
-    "name": "Kiesaru",
-    "author": "michaxwx",
-    "creators": ["michaxwx"],
-    "verifier": "michaxwx",
-    "verification": "https://youtu.be/i-wjD9QhfjU",
-    "percentToQualify": 100,
+    "name": "De Kieru",
+    "author": "376",
+    "creators": ["376"],
+    "verifier": "376",
+    "verification": "https://youtu.be/dQaw_5SY7Tw?si=3D0n6ryJsuTmWawW",
+    "percentToQualify": 31,
     "records": [
-        {
-            "user": "EPermGaming",
-            "link": "https://youtu.be/9jSDxPGL6ns",
-            "percent": 100,
-             "hz": 120
-           },
-           {
+         {
              "user": "yezxGD",
-            "link": "https://www.youtube.com/watch?v=DQCxlXRxhek",
+            "link": "https://youtu.be/X1n7S6n-vEM?si=2aOCa8CySFOIEe03",
             "percent": 100,
             "hz": 240
         }
