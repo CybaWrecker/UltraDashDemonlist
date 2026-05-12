@@ -5,6 +5,7 @@
     "creators": ["test"],
     "verifier": "test",
     "verification": "https://www.youtube.com/watch?v=dQaw_5SY7Tw",
+    "password": 1111
     "percentToQualify": "31",
     "records": [
         {
