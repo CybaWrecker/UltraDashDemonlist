@@ -1,1 +1,10 @@
-
+{
+    "id": 1089,
+    "name": "Fainted",
+    "author": "Jenius",
+    "creators": ["Jenius"],
+    "verifier": "Jenius",
+    "verification": "https://www.youtube.com/watch?v=xXUctkPPw4U",
+    "percentToQualify": 40,
+    "records": [
+]
