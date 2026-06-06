@@ -1,0 +1,17 @@
+{
+    "id": 1444,
+    "name": "Find me",
+    "author": "ambrxqheree",
+    "creators": ["ambrxqheree"],
+    "verifier": "ambrxqheree",
+    "verification": "https://www.youtube.com/watch?v=hYx--NuemoY",
+    "percentToQualify": 23,
+    "records": [
+         {
+             "user": "yezxGD",
+            "link": "https://youtu.be/YycYzTMB8PI?si=p-omO72LJ6NGIxd9",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
